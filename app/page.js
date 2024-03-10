@@ -21,7 +21,7 @@ export default function AmeroHome() {
         </div>
       </div>
       <div className="relative w-full flex justify-center items-center lg:mt-20">
-        <Link href='/register' className="relative mx-auto flex w-[70%] justify-center items-center">
+        <Link href='/amero/register' className="relative mx-auto flex w-[70%] justify-center items-center">
           <Image src='/amero/btn-taptostart.png' width={410} height={96} alt='Zirolu' className='w-full' priority />
         </Link>
         {/* <Link href='/amero/how' className="relative mx-auto flex w-[70%] justify-center items-center">
